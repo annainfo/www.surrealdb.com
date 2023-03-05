@@ -1,4 +1,4 @@
-# [surrealdb.com](https://surrealdb.com)
+# www.surrealdb.com
 
 The web application for [surrealdb.com](https://surrealdb.com) built using Ember.js.
 
